@@ -65,11 +65,7 @@ Speak or type your query (e.g., *“Has my NREGA payment arrived?”*) and PRAGA
 
 [![Python](https://img.shields.io/badge/Language-Python-blue)](https://www.python.org/)
 [![a2a](https://img.shields.io/badge/Dependency-a2a-orange)](https://pypi.org/project/a2a/)
-[![crewai](https://img.shields.io/badge/Dependency-crewai-purple)](https://github.com/joaomdmoura/crewAI)
-[![granite](https://img.shields.io/badge/Dependency-granite-red)](https://research.ibm.com/blog/granite-llm)
 [![langsmith](https://img.shields.io/badge/Dependency-langsmith-yellow)](https://smith.langchain.com/)
-[![mcp](https://img.shields.io/badge/Dependency-mcp-pink)](https://en.wikipedia.org/wiki/Model_context_protocol)
-[![opik](https://img.shields.io/badge/Dependency-opik-brightgreen)](https://arize.com/blog/product/introducing-opik/)
 [![rag](https://img.shields.io/badge/Dependency-rag-brown)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
 [![vectordb](https://img.shields.io/badge/Dependency-vectordb-teal)](https://milvus.io/)
 
