@@ -61,8 +61,6 @@ Speak or type your query (e.g., *“Has my NREGA payment arrived?”*) and PRAGA
 
 ## Dependencies
 
-## Dependencies
-
 [![Python](https://img.shields.io/badge/Language-Python-blue)](https://www.python.org/)
 [![a2a](https://img.shields.io/badge/Dependency-a2a-orange)](https://pypi.org/project/a2a/)
 [![langsmith](https://img.shields.io/badge/Dependency-langsmith-yellow)](https://smith.langchain.com/)
